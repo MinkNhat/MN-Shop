@@ -1,0 +1,69 @@
+{
+    "productSeries": [
+        {
+            "SeriName": "Máy quay Sony FX3 (FX3 - Mới)",
+            "imgThump": "/assets/img/product-info/fuji1.jpeg",
+            "priceOld": 82000,
+            "priceNew": 50000,
+            "products": [
+                {
+                    "id": "S001",
+                    "productName": "Máy quay Sony FX3 New",
+                    "state": "Hàng mới nhập khẩu",
+                    "accessories": "Dây deo, thẻ nhớ",
+                    "warranty": "12 tháng",
+                    "quantity": 2,
+                    "price": 72000000
+                },
+                {
+                    "id": "S002",
+                    "productName": "Máy quay Sony FX3 Likenew 99%",
+                    "state": "Hàng đã qua sử dụng (99%)",
+                    "accessories": "Dây deo, thẻ nhớ, bao da",
+                    "warranty": "6 tháng",
+                    "quantity": 1,
+                    "price": 55000000
+                }
+            ]
+        },
+        {
+            "SeriName": "Máy ảnh Canon DSLR EOS 100D kèm lens 1855 hoặc 40mm f/2.8 STM (trắng)",
+            "imgThump": "/assets/img/product-info/fuji3.jpeg",
+            "priceOld": 82000,
+            "priceNew": 50000,
+            "products": [
+                {
+                    "id": "S001",
+                    "productName": "Máy quay Sony FX3 New",
+                    "state": "Hàng mới nhập khẩu",
+                    "accessories": "Dây deo, thẻ nhớ",
+                    "warranty": "12 tháng",
+                    "quantity": 2,
+                    "price": 72000000
+                },
+                {
+                    "id": "S002",
+                    "productName": "Máy quay Sony FX3 Likenew 99%",
+                    "state": "Hàng đã qua sử dụng (99%)",
+                    "accessories": "Dây deo, thẻ nhớ, bao da",
+                    "warranty": "6 tháng",
+                    "quantity": 1,
+                    "price": 55000000
+                }
+            ]
+        }
+    ],
+    "accounts": [
+        {
+            "username": "admin",
+            "password": "123",
+            "role": "admin"
+        },
+        {
+            "username": "usertest",
+            "password": "123",
+            "role": "user"
+        }
+    ]
+}
+
