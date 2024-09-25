@@ -2,7 +2,7 @@
     "productSeries": [
         {
             "SeriName": "Máy quay Sony FX3 (FX3 - Mới)",
-            "imgThump": "/assets/img/product-info/fuji1.jpeg",
+            "imgThump": "./assets/img/product-info/fuji1.jpeg",
             "priceOld": 82000,
             "priceNew": 50000,
             "products": [
@@ -28,7 +28,7 @@
         },
         {
             "SeriName": "Máy ảnh Canon DSLR EOS 100D kèm lens 1855 hoặc 40mm f/2.8 STM (trắng)",
-            "imgThump": "/assets/img/product-info/fuji3.jpeg",
+            "imgThump": "./assets/img/product-info/fuji3.jpeg",
             "priceOld": 82000,
             "priceNew": 50000,
             "products": [
