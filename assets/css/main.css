@@ -966,10 +966,6 @@
     margin-right: 4px;
 }
 
-.category__heading-label {
-
-}
-
 .category__list {
     list-style: none;
     margin: 0;
@@ -1138,9 +1134,6 @@
     color: var(--bold-primary);
 }
 
-.home-filter__page-end {
-
-}
 
 .home-filter__page-control {
     padding-left: 22px;
